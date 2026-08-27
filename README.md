@@ -7,8 +7,8 @@
 - 🎓 B.Sc. Computer Science student (2024–2027) at Mulund College of Commerce, University of Mumbai
 - 🌟 Google Gemini Student Ambassador (India Chapter)
 - 💃 Trained classical Kathak dancer — I build tools that translate rhythm theory into code
-- 🧠 Currently deep in AI/LLMs, privacy & security in social media, and UI/UX via Figma
-- 📍 Based in Thane, Maharashtra
+🧠 Currently deep in AI/LLMs and privacy & security in social media
+🎨 UI/UX and design enthusiast — building skills in Figma
 
 ## 🌐 Socials
 
